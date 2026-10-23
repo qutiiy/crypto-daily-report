@@ -1,9 +1,9 @@
 {
-  "tarih": "2026-10-22",
+  "tarih": "2026-10-23",
   "takip": [
-    "ABD haftalık işsizlik başvuruları 15:30 TSİ beklentiyi (200K) karşıladı mı",
-    "Solana Alpenglow mainnet'te sorunsuz çalışıyor mu, 150ms kesinleşme hedefi tutuyor mu",
-    "Spot BTC ETF girişleri perşembe günü toparlandı mı yoksa zayıflama sürdü mü",
-    "Brent petrol Hürmüz gerginliğiyle $110 eşiğini aştı mı"
+    "ABD Ekim öncü PMI (16:45 TSİ) ve Michigan tüketici güveni (17:00 TSİ) beklentiyi karşılıyor mu",
+    "İran/İsrail saldırı planı haberleri hafta sonu tırmanıyor mu, Brent $113 üstünde kalıyor mu",
+    "Spot BTC ETF'lerinde perşembeki ~636M$ çıkış cuma günü sürüyor mu yoksa girişe dönüyor mu",
+    "Solana Alpenglow gözlenen kesinleşmesi 202ms'den 150ms hedefine yakınsıyor mu"
   ]
 }
