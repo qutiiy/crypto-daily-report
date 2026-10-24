@@ -1,9 +1,9 @@
 {
-  "tarih": "2026-10-23",
+  "tarih": "2026-10-24",
   "takip": [
-    "ABD Ekim öncü PMI (16:45 TSİ) ve Michigan tüketici güveni (17:00 TSİ) beklentiyi karşılıyor mu",
-    "İran/İsrail saldırı planı haberleri hafta sonu tırmanıyor mu, Brent $113 üstünde kalıyor mu",
-    "Spot BTC ETF'lerinde perşembeki ~636M$ çıkış cuma günü sürüyor mu yoksa girişe dönüyor mu",
-    "Solana Alpenglow gözlenen kesinleşmesi 202ms'den 150ms hedefine yakınsıyor mu"
+    "İran'a hafta sonu saldırı gerçekleşti mi, Brent $116 üstünde kalıyor mu",
+    "Pazartesi BTC ETF net akış yönü (çıkış mı girişe mi döndü)",
+    "Salı İsrail seçimleri öncesi gerginlik kripto risk iştahını nasıl etkiliyor",
+    "Solana Alpenglow gözlenen finality 150ms hedefine yakınsıyor mu (202ms'den)"
   ]
 }
